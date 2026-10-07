@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · yfinance 1.7.0 · Last verified: 2026-10-07 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-07): SPY $779.09 · QQQ $759.66 · BTC $83,746 · ETH $2,580 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-07): SPY $779.09 · QQQ $759.66 · BTC $83,700 · ETH $2,579 — for context on when this was written.
 
 **Target keyword:** walk-forward analysis
 **Meta description:** Your backtest Sharpe is lying to you. Learn walk-forward analysis: split data into rolling train/test windows, measure true out-of-sample performance, and add validation.py to your quant toolkit. Full runnable code.
